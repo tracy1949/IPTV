@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:-1,贵州卫视（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225776/10000100000000060000000000240945_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,贵州-2 公共频道（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225682/10000100000000060000000000146016_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,贵州-3  影视文艺频道（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225704/10000100000000060000000000146017_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,贵州-4 大众生活频道（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225740/10000100000000060000000000146038_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,贵州-5  生态·乡村频道（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225662/10000100000000060000000000145886_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,贵州-6 科教健康频道（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225672/10000100000000060000000000146018_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,贵州-7 经济频道（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221226289/441322803.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,天元围棋
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225714/10000100000000060000000000146036_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,贵州移动电视
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225774/10000100000000060000000000217456_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,家有购物 （高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221226068/383583477.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,贵阳-1 新闻综合频道（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225743/10000100000000060000000000146033_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,贵阳-2 经济生活频道
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225684/10000100000000060000000000146032_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,贵阳-3 都市频道
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225705/10000100000000060000000000146030_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,摄影频道
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225683/10000100000000060000000000146035_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-1 综合（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225777/10000100000000060000000000240944_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-2 财经（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225706/10000100000000060000000000146027_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-3 综艺（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221226008/372609400.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-4 中文国际（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225779/10000100000000060000000000240942_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-5 体育（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221226024/372609396.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-6 电影（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221226011/372609392.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-7 国防军事（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225745/10000100000000060000000000146101_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-8 电视剧（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221226005/372609500.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-9 纪录（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221226031/376381190.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-10 科教（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225685/10000100000000060000000000146100_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-11 戏曲（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225746/10000100000000060000000000146099_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-12 社会与法（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225747/10000100000000060000000000146098_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-13 新闻（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225748/10000100000000060000000000146097_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-14 少儿（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225727/10000100000000060000000000146096_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-15 音乐（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225749/10000100000000060000000000146095_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,湖南卫视（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225778/10000100000000060000000000240943_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,浙江卫视（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225780/10000100000000060000000000240941_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,江苏卫视（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225751/10000100000000060000000000146023_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,北京卫视（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225754/10000100000000060000000000146022_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,山东卫视（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225728/10000100000000060000000000146021_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,东方卫视（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225752/10000100000000060000000000146020_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,重庆卫视（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225686/10000100000000060000000000146019_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,安徽卫视（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225716/10000100000000060000000000146057_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,湖北卫视（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225708/10000100000000060000000000146056_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,云南卫视
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225687/10000100000000060000000000146055_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,辽宁卫视（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225717/10000100000000060000000000146054_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,吉林卫视（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225753/10000100000000060000000000146053_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,甘肃卫视（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225755/10000100000000060000000000146094_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,天津卫视（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225756/10000100000000060000000000146052_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,河南卫视（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225709/10000100000000060000000000146051_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,江西卫视（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225710/10000100000000060000000000146050_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,广西卫视
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225711/10000100000000060000000000146049_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,四川卫视（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225757/10000100000000060000000000146048_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,陕西卫视
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225688/10000100000000060000000000146047_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,黑龙江卫视（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225758/10000100000000060000000000146046_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,深圳卫视（高清）
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225712/10000100000000060000000000146093_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,内蒙古卫视
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225718/10000100000000060000000000146092_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1,宁夏卫视
+http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221225719/10000100000000060000000000146091_0.smil/index.m3u8?fmt=ts2hls
